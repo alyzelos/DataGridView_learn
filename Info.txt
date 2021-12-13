@@ -1,0 +1,18 @@
+	
+	* the app *  
+
+ * Main Purpose : personal learning;
+ * App purpose : to test a stored procedure with two parameters ( in this case two "date" parameters) sent from the DataGridView.
+
+	* prerequisit *
+
+C# / .net Version=4.7.2
+SQL Server Management Studio. 
+
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+Microsoft.EntityFrameworkCore.SqlServer.Design
+
+	* Database * 
+
+Attention! : the database created / used by me is not shared with the content of the app.  
